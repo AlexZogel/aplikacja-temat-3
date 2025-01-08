@@ -1,0 +1,8 @@
+{
+  "name": "Aplikacja Temat 3 ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "af6b7a56"
+}
